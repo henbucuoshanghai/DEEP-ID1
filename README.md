@@ -1,5 +1,6 @@
 # DEEP_ID1
 =====
+
 train loss is 1.0305396  
 valid acc is 0.46666667  
 train loss is 0.9465262   
